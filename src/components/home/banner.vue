@@ -54,10 +54,10 @@
             top: 0;
             width: auto;
             .swiper-pagination-bullet {
-                width: 20/@rem;
+                width: 30/@rem;
                 height: 3px;
+                border-radius: inherit;
             }
-
             .swiper-pagination-bullet-active{
                 background: #fff;
             }

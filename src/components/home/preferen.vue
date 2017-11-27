@@ -33,6 +33,7 @@
                         <li>￥222</li>
                     </ul>
                 </swiper-slide>
+
             </swiper>
         </div>
     </div>
@@ -53,14 +54,14 @@
                     centeredSlides: !0,
                     loop: true,
                     watchSlidesProgress: !0,
-                    initialSlide: 1,
+                    initialSlide: 1
                 }
             }
         }
     }
 </script>
 
-<style lang="less" type="text/less">
+<style lang="less" type="text/less" >
     @import "./../common/less/he.less";
     .preferen {
         width: 100%;
